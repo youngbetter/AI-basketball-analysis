@@ -24,7 +24,7 @@ _This is an AI-powered application focused on **object detection** to analyze ba
 
 _AI Basketball Analysis leverages artificial intelligence to break down basketball shots by detecting player movements, shot accuracy, and pose data. It uses the popular [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) framework for human pose estimation. Whether you're a developer or sports analyst, this project helps explore how AI can automate and enhance basketball analysis._
 
-> **Important**: _This project is for **noncommercial research use only**, as it uses OpenPose's license. Please review the [LICENSE](https://github.com/chonyy/AI-basketball-analysis/blob/master/LICENSE) for details._
+> **Important**: _This project is for **noncommercial research use only**, as it uses OpenPose's license. Please review the [LICENSE](./LICENSE) for details._
 
 _If you're new to human pose estimation, check out this [summary article](https://towardsdatascience.com/openpose-research-paper-summary-realtime-multi-person-2d-pose-estimation-3563a4d7e66) that breaks down OpenPose's key concepts._
 
@@ -33,14 +33,16 @@ _If you're new to human pose estimation, check out this [summary article](https:
 ## 🚀 _Getting Started_
 
 ### 1. **Clone the Repository**
-_To get a copy of the project, run the following command:_
+_To get started, simply clone the repository by running the following command:_
 ```bash
+# Clone the repository
 git clone https://github.com/chonyy/AI-basketball-analysis.git
 ```
 
 ### 2. **Install Dependencies**
 _Before running the project, ensure all necessary dependencies are installed by running:_
 ```bash
+# Install dependencies
 pip install -r requirements.txt
 ```
 
@@ -49,6 +51,7 @@ pip install -r requirements.txt
 ### 3. **Run the Application**
 _Once everything is set up, you can host the project locally with a simple command:_
 ```bash
+# Run the application
 python app.py
 ```
 
@@ -80,7 +83,7 @@ _Here’s a breakdown of the key components of the project:_
 
 ---
 
-## 🔍 _Features_
+## 🔍 Features
 
 ### 1. **Shot and Pose Analysis**
 
